@@ -15,6 +15,9 @@ This project implements and compares the effectiveness of delta hedging and deep
 ## Optimal Hedging Strategy:
 - Defines an optimal hedging strategy that minimizes risk within specific constraints based on a given convex risk measure.
 
+## Real data
+- We use AAPL and AMZM historical stock price to compare delta hedging and deep hedging. 
+
 ## Reference: 
 
 [Deep_Hedging](<https://arxiv.org/abs/1802.03042>)
